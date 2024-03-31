@@ -216,8 +216,7 @@ Elmer|Fudd|456 Elm Avenue, Oakville|0,2
 Emily|Anderson|555 Elm Street, Rivertown|2
 ```
 
-First row: FirstName and Address matched
-Second row: only Address matched
+First row: FirstName and Address matched. Second row: only Address matched.
 
 `Hill`:
 
@@ -229,9 +228,9 @@ LastName and Address matched.
 
 # Resources
 
-[FTS5 documentation](https://www.sqlite.org/fts5.html#custom_auxiliary_functions) - Every time I read this I learn something new.
-[Microsoft.Data.Sqlite documentation](https://learn.microsoft.com/en-us/dotnet/standard/data/sqlite/)
-[e_sqlite3 source code and libraries](https://github.com/ericsink/cb)
-[An Objective-C version](https://briancoyner.github.io/articles/2022-02-01-sqlite-fts5-aux-functions/)
+- [FTS5 documentation](https://www.sqlite.org/fts5.html#custom_auxiliary_functions) - Every time I read this I learn something new.
+- [Microsoft.Data.Sqlite documentation](https://learn.microsoft.com/en-us/dotnet/standard/data/sqlite/)
+- [e_sqlite3 source code and libraries](https://github.com/ericsink/cb)
+- [An Objective-C version](https://briancoyner.github.io/articles/2022-02-01-sqlite-fts5-aux-functions/)
 
 Thanks to ChatGPT for generating test data.
